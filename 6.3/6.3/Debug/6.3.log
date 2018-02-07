@@ -1,0 +1,14 @@
+﻿Build started 10/11/2017 12:04:39.
+     1>Project "h:\6.3\6.3\6.3.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling main.asm...
+         cmd.exe /C "C:\Users\prochar2\AppData\Local\Temp\tmp7aa0329cf2b24a20b6318eaa627d0e48.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"h:\6.3\Debug\6.3.exe" /INCREMENTAL /NOLOGO msvcrt.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"h:\6.3\Debug\6.3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"h:\6.3\Debug\6.3.lib" /MACHINE:X86 Debug\main.obj
+         6.3.vcxproj -> h:\6.3\Debug\6.3.exe
+     1>Done Building Project "h:\6.3\6.3\6.3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.67
